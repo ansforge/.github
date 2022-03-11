@@ -2,4 +2,4 @@
 
 ![ANS Logo](/img/ans_logo.png?raw=true "Title")
 
-Retrouvez-nous sur notre site internet : https://esante.gouv.fr/
+Retrouvez-nous également sur notre site internet : https://esante.gouv.fr/
