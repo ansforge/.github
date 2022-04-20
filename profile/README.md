@@ -1,7 +1,9 @@
-# Bienvenue sur le Github de l'Agence du Numérique en Santé (ANS)
+
 
 ![Logo ANS](/img/ans_logo.png?raw=true "Agence du Numérique en Santé")
 
-Veuillez trouver le guide de la communauté sur https://ansforge.github.io/Documentation/
+<h1 align="center"></h1>
 
-Retrouvez-nous également sur notre site internet : https://esante.gouv.fr/
+## Veuillez trouver le guide de la communauté sur https://ansforge.github.io/Documentation/
+
+<h1 align="center"></h1>
